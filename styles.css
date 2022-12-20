@@ -1,2 +1,18 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table th{
+    border: 1px solid black;
+    padding: 10px;
+}
+tr td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
 
-/* Your CSS Code here. */
+
+
+
+
